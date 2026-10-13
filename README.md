@@ -67,3 +67,9 @@ mvn test
 ## API areas
 
 The REST API is organized under `/api`: `/auth`, `/properties`, `/bookings`, `/favorites`, `/messages`, `/reviews`, and `/admin`. JWT-protected routes require an `Authorization: Bearer <token>` header. Uploaded property images are stored by the backend and served from its uploads route.
+
+## 🏠 Rent Management System
+
+**🌐 Live Demo:** [Visit Rent Management System](https://rentmanagement-black.vercel.app/)
+
+Click the link above to explore the deployed application.
